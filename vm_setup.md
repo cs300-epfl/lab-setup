@@ -1,7 +1,7 @@
 # Tools setup - CS300
 
 1. Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
-2. Download the image [labvm.ova](https://epflch-my.sharepoint.com/:u:/g/personal/vishal_gupta_epfl_ch/Ee4Qp0sIDR1Gp2wCbTc4KXoBSVVUOug33jmx7LNvykCvOQ?e=NLyVah).
+2. Download the image [labvm.ova](https://drive.google.com/file/d/1uLiw4xM1f-EZXiHKBvOlgyR8QitJ_o_K/view?usp=drive_link).
 3. In VirtualBox do File→Import Appliance, select the image and finish it by iterating on next button.
 4. Start the machine called `labvm`.
 5. There is an already created user `vmlab` with password `123456`.
